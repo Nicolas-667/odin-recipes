@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+}
+img {
+    margin-right:auto;
+    margin-left: auto;
+    display: block;
+}
+a {
+    text-align: center;
+}
+body{
+    background-color: burlywood;
+}
+h2, h3{
+    text-align: center;
+}
